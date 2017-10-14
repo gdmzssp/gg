@@ -8,10 +8,8 @@
 # }
 # //end
 
-# // dddd
-# // sss
-# // ppp
-# 2017 Google hosts ³ÖĞø¸üĞÂ¡¾¸üĞÂÓÚ:2017-10-08¡¿ | ÀÏD²©¿Í  
+# 2017 Google hosts æŒç»­æ›´æ–°ã€æ›´æ–°äº:2017-10-08ã€‘ | è€Dåšå®¢  
 # https://laod.cn/hosts/2017-google-hosts.html
-# Google ·­Òë  
+
+# Google ç¿»è¯‘  
 # https://translate.google.cn/?hl=zh-CN&tab=TT
