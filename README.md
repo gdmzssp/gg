@@ -1,4 +1,4 @@
-# testing push
+﻿# testing push
 
 # //start
 #  public class HelloWorld {
@@ -8,8 +8,11 @@
 # }
 # //end
 
-# 2017 Google hosts 持续更新【更新于:2017-10-08】 | 老D博客  
+# 2017 Google hosts  老D博客  
 # https://laod.cn/hosts/2017-google-hosts.html
 
 # Google 翻译  
 # https://translate.google.cn/?hl=zh-CN&tab=TT
+
+# 百度一下，你就知道  
+# https://www.baidu.com/
